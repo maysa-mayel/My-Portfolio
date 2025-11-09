@@ -1,0 +1,110 @@
+[
+  {
+    "id": "1",
+    "titleUrl": "https://medium.com/@mayssamayel4/prompt-engineering-101-mastering-the-foundations-of-generative-ai-c87ef62d2af4",
+    "title": "Prompt Engineering 101: Mastering the Foundations of Generative AI",
+    "description": "An introduction to the core principles of prompt engineering and how to build effective prompts for generative AI models.",
+    "date": "October 3, 2025",
+    "readTime": "5 min read",
+    "done": "Yes"
+  },
+  {
+    "id": "2",
+    "titleUrl": "https://medium.com/@mayssamayel4/how-to-optimize-your-sql-queries",
+    "title": "How to Optimize Your SQL Queries",
+    "description": "A practical guide on improving SQL query performance by understanding the actual execution order and optimization strategies.",
+    "date": "September 27, 2025",
+    "readTime": "2 min read",
+    "done": "Yes"
+  },
+  {
+    "id": "3",
+    "titleUrl": "https://medium.com/@mayssamayel4/master-sql-practical-guide-select-to-recursive-ctes-window-functions",
+    "title": "Master SQL: A Practical Guide from SELECT to Recursive CTEs & Window Functions",
+    "description": "Comprehensive guide for mastering SQL from basic queries to advanced analytical functions for data professionals.",
+    "date": "July 9, 2025",
+    "readTime": "4 min read",
+    "done": "Yes"
+  },
+  {
+    "id": "4",
+    "titleUrl": "https://medium.com/@mayssamayel4/from-git-to-dvc-managing-ml-lifecycle-like-a-pro",
+    "title": "From Git to DVC: Managing Your ML Lifecycle Like a Pro",
+    "description": "How Data Version Control (DVC) helps organize, reproduce, and streamline your machine learning experiments.",
+    "date": "July 2, 2025",
+    "readTime": "8 min read",
+    "done": "Yes"
+  },
+  {
+    "id": "5",
+    "titleUrl": "https://medium.com/@mayssamayel4/before-you-deploy-5-kubernetes-concepts-every-developer-should-understand",
+    "title": "Before You Deploy: 5 Kubernetes Concepts Every Developer Should Understand",
+    "description": "A simple overview of key Kubernetes concepts : clusters, nodes, pods, YAML, and more, before diving into deployment.",
+    "date": "May 30, 2025",
+    "readTime": "4 min read",
+    "done": "Yes"
+  },
+  {
+    "id": "6",
+    "titleUrl": "https://medium.com/@mayssamayel4/cloud-infrastructure-for-ml-model-training-sagemaker-vs-kubernetes",
+    "title": "Cloud Infrastructure for ML Model Training: Amazon SageMaker vs Kubernetes",
+    "description": "Comparing two powerful ML training infrastructures: SageMaker and Kubernetes, to help you choose the right one.",
+    "date": "April 5, 2025",
+    "readTime": "2 min read",
+    "done": "Yes"
+  },
+  {
+    "id": "7",
+    "titleUrl": "https://medium.com/@mayssamayel4/getting-started-with-sql-server",
+    "title": "Getting Started with SQL Server",
+    "description": "A beginner-friendly introduction to Microsoft SQL Server and its key features for data management.",
+    "date": "February 27, 2025",
+    "readTime": "2 min read",
+    "done": "Yes"
+  },
+  {
+    "id": "8",
+    "titleUrl": "https://medium.com/@mayssamayel4/run-an-llm-locally-in-just-few-minutes",
+    "title": "Run an LLM Locally in Just Few Minutes",
+    "description": "A guide to running large language models like ChatGPT, DeepSeek, or LLaMA locally on your own system.",
+    "date": "January 29, 2025",
+    "readTime": "2 min read",
+    "done": "Yes"
+  },
+  {
+    "id": "9",
+    "titleUrl": "https://medium.com/@mayssamayel4/understanding-apis",
+    "title": "Understanding APIs",
+    "description": "Explaining the basics of APIs, how they work, and why they are essential in modern software systems.",
+    "date": "January 18, 2025",
+    "readTime": "4 min read",
+    "done": "Yes"
+  },
+  {
+    "id": "10",
+    "titleUrl": "https://medium.com/@mayssamayel4/understanding-design-patterns-beginners-guide",
+    "title": "Understanding Design Patterns: A Beginner’s Guide to Software Design",
+    "description": "An introduction to design patterns in software engineering and how to apply them to build robust systems.",
+    "date": "December 31, 2024",
+    "readTime": "5 min read",
+    "done": "Yes"
+  },
+  {
+    "id": "11",
+    "titleUrl": "https://medium.com/@mayssamayel4/why-you-should-consider-zenml-mlflow-machine-learning-projects",
+    "title": "Why You Should Consider ZenML and MLFlow for Your Machine Learning Projects",
+    "description": "A comparison of ZenML and MLFlow two powerful tools for managing your ML pipelines efficiently.",
+    "date": "November 24, 2024",
+    "readTime": "3 min read",
+    "done": "Yes"
+  },
+  {
+    "id": "12",
+    "titleUrl": "https://medium.com/@mayssamayel4/building-a-rag-system-with-gpt4-step-by-step-guide",
+    "title": "Building a RAG System with GPT-4: A Step-by-Step Guide",
+    "description": "Detailed walkthrough of developing a Retrieval-Augmented Generation (RAG) system using GPT-4 for enhanced AI retrieval performance.",
+    "date": "October 4, 2024",
+    "readTime": "4 min read",
+    "done": "Yes"
+  }
+]
