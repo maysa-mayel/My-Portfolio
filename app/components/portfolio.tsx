@@ -141,7 +141,7 @@ export default function Portfolio() {
               , completing over 90 hours of entrepreneurship and startup training, and reaching the semi-final stage.
             </li>
             <li>
-              Built several AI, deep learning, and software engineering projects spanning computer vision, generative AI, and data-driven systems. (<a href="https://github.com/mayssa-mayel" target="_blank" rel="noopener noreferrer" className="text-blue-500 hover:underline">more here</a>).
+              Built several AI, deep learning, and software engineering projects spanning computer vision, generative AI, and data-driven systems. (<a href="https://github.com/maysa-mayel" target="_blank" rel="noopener noreferrer" className="text-blue-500 hover:underline">more here</a>).
             </li>
             <li>
               Earned certifications in AI, MLOps, DevOps, and software engineering from NVIDIA, Stanford University, Microsoft Azure, KodeKloud, and Postman.
